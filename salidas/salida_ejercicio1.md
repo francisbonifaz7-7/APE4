@@ -1,8 +1,1 @@
-
------ Notas del curso -----
-Camila : 8.33 Aprobado
-Mateo : 6.17 Supletorio
-Valeria : 9.5 Aprobado
-Jose : 4.17 Reprobado
-Daniela : 7.17 Aprobado
-Total de aprobados: 3
+<img width="296" height="172" alt="Captura de pantalla 2026-10-20 151541" src="https://github.com/user-attachments/assets/1346c556-0548-4f54-9d09-ef51087d97fd" />
